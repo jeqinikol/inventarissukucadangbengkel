@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx9en3IDhmiHSHyH5HQbdpF6ZhCyQEBt8Nqpm9PKCmL-0AKYcQ0RIg7Wfw11G1xrkCNsA/exec"; // Ganti dengan URL Deployment Anda
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz0tnRn7oqz_60DLSytn9AHW3AHk2o0XJwlWHMtSfqs6VMj2lDTx1j6xgvh2poRPFpm/exec"; // Ganti dengan URL Deployment Anda
 
 const form = document.getElementById('inventory-form');
 const tableBody = document.getElementById('table-body');
